@@ -1,0 +1,74 @@
+processor   : 0
+vendor_id   : AuthenticAMD
+cpu family  : 23
+model       : 113
+model name  : AMD Ryzen 9 5900X 12-Core Processor
+stepping    : 0
+cpu MHz     : 3800.000
+cache size  : 51200 KB
+physical id : 0
+siblings    : 24
+core id     : 0
+cpu cores   : 12
+apicid      : 0
+initial apicid  : 0
+fpu         : yes
+fpu_exception : yes
+cpuid level : 24
+wp          : yes
+flags       : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology cpuid tsc_adjust osvw aperfmperf pni pclmulqdq ssse3 fma cx16 xsave avx f16c rdrand lahf_lm abm ida arat epb pln pts dtherm tpr_shadow vnmi flexpriority ept vpid
+bugs        : cpu_meltdown spectre_v1 spectre_v2
+bogomips    : 7600.00
+clflush size : 64
+cache_alignment : 64
+address sizes : 48 bits physical, 48 bits virtual
+
+processor   : 1
+vendor_id   : AuthenticAMD
+cpu family  : 23
+model       : 113
+model name  : AMD Ryzen 9 5900X 12-Core Processor
+stepping    : 0
+cpu MHz     : 3800.000
+cache size  : 51200 KB
+physical id : 0
+siblings    : 24
+core id     : 1
+cpu cores   : 12
+apicid      : 1
+initial apicid  : 1
+fpu         : yes
+fpu_exception : yes
+cpuid level : 24
+wp          : yes
+flags       : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology cpuid tsc_adjust osvw aperfmperf pni pclmulqdq ssse3 fma cx16 xsave avx f16c rdrand lahf_lm abm ida arat epb pln pts dtherm tpr_shadow vnmi flexpriority ept vpid
+bugs        : cpu_meltdown spectre_v1 spectre_v2
+bogomips    : 7600.00
+clflush size : 64
+cache_alignment : 64
+address sizes : 48 bits physical, 48 bits virtual
+
+processor   : 2
+vendor_id   : AuthenticAMD
+cpu family  : 23
+model       : 113
+model name  : AMD Ryzen 9 5900X 12-Core Processor
+stepping    : 0
+cpu MHz     : 3800.000
+cache size  : 51200 KB
+physical id : 0
+siblings    : 24
+core id     : 2
+cpu cores   : 12
+apicid      : 2
+initial apicid  : 2
+fpu         : yes
+fpu_exception : yes
+cpuid level : 24
+wp          : yes
+flags       : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology cpuid tsc_adjust osvw aperfmperf pni pclmulqdq ssse3 fma cx16 xsave avx f16c rdrand lahf_lm abm ida arat epb pln pts dtherm tpr_shadow vnmi flexpriority ept vpid
+bugs        : cpu_meltdown spectre_v1 spectre_v2
+bogomips    : 7600.00
+clflush size : 64
+cache_alignment : 64
+address sizes : 48 bits physical, 48 bits virtual
