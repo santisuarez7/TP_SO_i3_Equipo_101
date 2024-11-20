@@ -5,6 +5,10 @@ Hora: 21:24
 
 Nombre: Aisha
 Apellido: Pereyra Sole
-Dirección IP:192.168.0.193
+Dirección IP: 192.168.0.193
 Hora: 16:30
 
+Nombre: Santiago
+Apellido: Suárez
+Dirección IP: 192.168.1.85
+Hora: 20:52
