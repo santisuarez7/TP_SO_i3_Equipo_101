@@ -1,0 +1,46 @@
+Nombre: Santiago
+Apellido: Su√°rez
+Hora: 21:02
+ifconfig:
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet 8:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+
+Adaptador de Ethernet vEthernet (Default Switch):
+
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+   V°nculo: direcci¢n IPv6 local. . . : fe80::d3cf:fe7d:8881:94cc%71
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 172.32.121.1
+   M†scara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet Ethernet 9:
+
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+   V°nculo: direcci¢n IPv6 local. . . : fe80::4cc6:6641:f364:10cd%54
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.198.21.1
+   M†scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal†mbrica Conexi¢n de †rea local* 17:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+
+Adaptador de LAN inal†mbrica Conexi¢n de †rea local* 18:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+
+Adaptador de LAN inal†mbrica Wi-Fi 8:
+
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+   V°nculo: direcci¢n IPv6 local. . . : fe80::53c2:b7c7:b71c:b11%81
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.198.1.60
+   M†scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.147.1.1
