@@ -207,3 +207,48 @@ cache_alignment	: 64
 address sizes	: 48 bits physical, 48 bits virtual
 power management: ts ttp hwpstate eff_freq_ro
 
+
+
+
+
+
+
+
+
+
+Nombre: Franco 
+Apellido: Rivera Aldana
+Hora: 22:50
+
+eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.100  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::a00:27ff:fe93:cde6  prefixlen 64  scopeid 0x20<link>
+        ether 00:0c:29:3d:8c:4b  txqueuelen 1000  (Ethernet)
+        RX packets 1023  bytes 452132 (452.1 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2034  bytes 1845927 (1.8 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlan0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        inet 192.168.0.101  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::cafe:1234:abcd:5678  prefixlen 64  scopeid 0x20<link>
+        ether 00:14:22:01:2d:3a  txqueuelen 1000  (Ethernet)
+        RX packets 543  bytes 83299 (83.3 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 900  bytes 1046523 (1.0 MB)
+        TX errors 0  dropped 0  overruns 0  carrier 0  collisions 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
