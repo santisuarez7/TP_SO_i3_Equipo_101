@@ -75,4 +75,40 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 Hora: 17:22
 
 
+Nombre: Aisha
+Apellido: Pereyra Sole 
 
+Configuraci¿n IP de Windows
+
+
+Adaptador desconocido Conexi¿n de ¿rea local:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¿fico para la conexi¿n. . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¿fico para la conexi¿n. . : home
+   Direcci¿n IPv6 . . . . . . . . . . : 2800:810:5e9:113d:1569:8049:815b:6afb
+   Direcci¿n IPv6 . . . . . . . . . . : 2800:810:5e9:113d:d4ab:c9cc:b987:a037
+   Direcci¿n IPv6 temporal. . . . . . : 2800:810:5e9:113d:c18c:cfba:671a:e640
+   V¿nculo: direcci¿n IPv6 local. . . : fe80::5c64:3545:96c:263%13
+   Direcci¿n IPv4. . . . . . . . . . . . . . : 192.168.0.193
+   M¿scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::ce58:30ff:fe8c:2cce%13
+                                       192.168.0.1
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS espec¿fico para la conexi¿n. . :
+   V¿nculo: direcci¿n IPv6 local. . . : fe80::e959:fd92:9f6f:eee6%18
+   Direcci¿n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M¿scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador desconocido OpenVPN Connect DCO Adapter:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¿fico para la conexi¿n. . :
+
+Hora: 18:18
