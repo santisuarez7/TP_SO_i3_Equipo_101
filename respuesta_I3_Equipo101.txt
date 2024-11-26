@@ -25,6 +25,12 @@ ipconfig
 
 Responde ALFA:
 G-¿Qué debió hacer (todos los comandos) en el punto 8 para poder hacer lo pedido?
-
+git pull
+git checkout Suárez
+cat ipconfig>> beta.txt
+nano beta.txt
+git add *
+git commit -m "Punto 8"
+git push
 
 
