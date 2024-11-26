@@ -16,9 +16,15 @@ git merge Rivera_Aldana
 
 Responde GAMMA:
 d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+Sin duda alguna
 e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+Ningún problema alguno
 f-¿Qué debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
-
+nano beta.txt
+ipconfig
 
 Responde ALFA:
 G-¿Qué debió hacer (todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+
+
